@@ -1,0 +1,28 @@
+.md {
+    padding-top: 200px;
+}
+
+#n1,#n2,#n3 {
+    border-style:solid;
+    border-color: lightgray;
+    width: 30%;
+    height: 3em;
+    background-color: none;
+    float: inline-start;
+    margin: 0px;
+    text-align: center;
+    
+   
+}
+.middle-content {
+    float: right;
+    width: 500px;
+    height: 400px;
+    display: block;
+    
+    
+    
+}
+.middle-nav {
+    margin: 0px;
+}
